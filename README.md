@@ -11,7 +11,7 @@ This project addresses the need for a robust and efficient database system for m
 To clone this repository, use the following command:
 
 ```bash
-git clone [Your Repository URL]
+git clone https://github.com/shahriar-hd/transportdatabase.git
 ```
 
 ## 3. Database Tables and Relationships
